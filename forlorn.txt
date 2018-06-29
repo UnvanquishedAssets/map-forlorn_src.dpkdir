@@ -1,11 +1,12 @@
 ~~README IS A WORK IN PROGRESS~~
+~~Just like the map and the EJ01 texture pack!!!~~
 
 
 Details:
 
 -Map: Forlorn
 -Version Type: alpha
--Version Number: 4
+-Version Number: 6
 -Author: Jack 'EmperorJack' Purvis
 -Contact: emperorpurvis@gmail.com
 
@@ -42,5 +43,5 @@ Compile stats:
 
 Map file stats:
 
--Brushes: 2349
--Entities: 238
+-Brushes: 2139
+-Entities: 230
