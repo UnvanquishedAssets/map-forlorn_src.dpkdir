@@ -2,13 +2,16 @@
 textures/forlorn/glass01
 {
 	qer_editorimage textures/forlorn/glass01.tga
-	qer_trans 0.35
-	surfaceparm trans
+	qer_trans 0.5
+
+	surfaceparm lightfilter
+  surfaceparm trans
+  surfaceparm nolightmap
 
 	{
 		map textures/forlorn/glass01.tga
-		blendfunc add
-		rgbGen const ( 0.35 0.35 0.35 )
+		blendFunc GL_DST_COLOR GL_ZERO
+    rgbGen identity
 	}
 }
 
@@ -18,14 +21,68 @@ textures/forlorn/snow_xy
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 256 0 )
-	diffuseMap		textures/forlorn/snow01_d.tga
+	diffuseMap	textures/forlorn/snow01_d.tga
 	normalMap		textures/forlorn/snow01_n.tga
-	specularMap		textures/forlorn/snow01_s.tga
+	specularMap	textures/forlorn/snow01_s.tga
 
 	{
 		map $lightmap
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
+	}
+}
+
+textures/forlorn/display01
+{
+	qer_editorImage     textures/forlorn/display01_p
+
+	q3map_surfacelight  500
+	q3map_lightRGB      0.9 0.9 0.9
+
+	diffuseMap          textures/forlorn/display01_d
+	{
+		map   textures/forlorn/display01_a
+		blend add
+		red   0.8
+		green 0.8
+		blue  0.8
+		rgbGen wave sin 0.8 0.2 0 0.25
+	}
+}
+
+textures/forlorn/display02
+{
+	qer_editorImage     textures/forlorn/display02_p
+
+	q3map_surfacelight  500
+	q3map_lightRGB      0.9 0.9 0.9
+
+	diffuseMap          textures/forlorn/display02_d
+	{
+		map   textures/forlorn/display02_a
+		blend add
+		red   0.8
+		green 0.8
+		blue  0.8
+		rgbGen wave sin 0.8 0.2 0.2 0.25
+	}
+}
+
+textures/forlorn/display03
+{
+	qer_editorImage     textures/forlorn/display03_p
+
+	q3map_surfacelight  500
+	q3map_lightRGB      0.9 0.9 0.9
+
+	diffuseMap          textures/forlorn/display03_d
+	{
+		map   textures/forlorn/display03_a
+		blend add
+		red   0.8
+		green 0.8
+		blue  0.8
+		rgbGen wave sin 0.8 0.2 0.4 0.35
 	}
 }
 
@@ -70,6 +127,25 @@ textures/shared_ej01-ice/light02_blue_1500
 		green 0.654
 		blue  1.000
 	}
+}
+
+textures/shared_ej01-ice/light01_red_1500
+{
+  qer_editorImage     textures/shared_ej01-ice_src/light01_p
+
+  q3map_surfacelight  1500
+  q3map_lightRGB      0.8 0.553 0.553
+
+  diffuseMap          textures/shared_ej01-ice_src/light01_d
+  normalMap           textures/shared_ej01-common_src/light01_n
+  specularMap         textures/shared_ej01-ice_src/light01_s
+  {
+    map   textures/shared_ej01-ice_src/light01_a
+    blend add
+    red   0.8
+    green 0.505
+    blue  0.505
+  }
 }
 
 textures/shared_ej01-ice/light01_orange_3000

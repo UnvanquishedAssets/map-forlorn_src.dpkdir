@@ -1,22 +1,22 @@
 map-forlorn
 
 	~Description~
-		
+
 		Title: Forlorn
-		Version: Alpha 15
-		Release date: 06/12/2015
+		Version: Beta 1
+		Release date: 10/03/2017
 		Summary: "A desolate mineral processing plant on a frozen planet. This
 				  map was made at the same time as my ej01 texture set. Of which
 				  the ice pack is used in this map."
-				  
+
 	~Author~
 
-        Jack 'EmperorJack' Purvis (emperorpurvis@gmail.com)
+    Jack 'EmperorJack' Purvis (emperorpurvis@gmail.com)
 		"I'm a computer graphics student in Wellington, New Zealand. I love mapping
 		in my spare time."
 
 	~References, Tools and Appreciations~
-		
+
 		References:
 		- tex-ej01-ice created by myself. Futher details and licensing can be found
 		  in the respective pack's about document.
@@ -25,39 +25,52 @@ map-forlorn
 						 images may not be redistributed by default. Please visit
 						 www.goodtextures.com for more information.")
 		- Rock material: http://www.sharecg.com/yughues (free tiling texture pack 50)
-		
+    - fanhum01 sound: https://www.freesound.org/people/Otakua/sounds/219929/
+    - generator01 sound: https://www.freesound.org/people/HerbertBoland/sounds/114594/
+    - wind01 sound: https://www.freesound.org/people/klangfabrik/sounds/26714/
+
 		Tools:
 		- Photoshop CS6
 		- GIMP 2
 		- NetRadiant
 		- Q3Map2
-		
+    - Processing
+
 		Appreciations:
 		- Unvanquished Development: "Together we are creating an amazing game. Without
 		  you I would not be creating works such as this."
-	
+
 	~License~ (this refers specifically to the .map file and shader files)
 
         Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
         (https://creativecommons.org/licenses/by-nc-sa/3.0/)
-	
+
 	~Map statistics~
-	
+
 		Compile stats:
 			- BSP: -meta -custinfoparms -keeplights -samplesize 8
-				taking 190 seconds
+				taking 247 seconds
 
 			- VIS: -vis -saveprt
 				taking 1 seconds
 
 			- LIGHT: -light -fast -shade -dirty -patchshadows -samples 3 -bouncegrid -bouncescale 1.1 - bounce 6 -samplesize 8 -lightmapsize 512 -deluxe
-				taking 577 seconds
-		
+				taking 669 seconds
+
 		Map file stats:
-			- Brush count = 10868
-			- Entity count = 121
-			
+			- Brush count = 11980
+			- Entity count = 107
+
 	~Change log~
+
+    (10/03/2017) Beta 1:
+      - Initial detailing of power room.
+      - Initial detailing of heating systems.
+      - Reconfigured some lighting.
+      - Added some sound effects.
+      - Added monitor textures.
+      - Replaced deprecated entities.
+
 		(06/12/2015) Alpha 15:
 			- Renamed control room to data center.
 			- Renamed mineral lab to control room.
@@ -71,20 +84,20 @@ map-forlorn
 			- Redesigned mineral processing layout.
 			- Replaced some deprecated entities.
 			- Various other minor changes.
-			
+
 		(01/05/2015) Alpha 13:
 			- Redesigned control room layout.
 			- Initial detailing of control room.
-			
+
 		(01/03/2015) Alpha 12:
 			- Initial detailing of lobby.
 			- Updated courtyard detailing.
-			
+
 		(01/02/2015) Alpha 11:
 			- Initial detailing of courtyard.
 			- Initial detailing of courtyard south.
 			- Various other minor changes.
-		
+
 		(04/01/2015) Alpha 10:
 			- Initial detailing of hallway between human default and communications.
 			- Initial detailing of hallway between mineral processing and communications.
@@ -95,9 +108,7 @@ map-forlorn
 			- Updated colour grading.
 			- Storage hall windows added.
 			- Various other minor changes.
-			
+
 		Before (04/01/2015) Alpha 1 to Alpha 9:
 			- Many layout tests before coming to the final layout design.
 			- Initial colour grading and reverb effects created.
-
-	
