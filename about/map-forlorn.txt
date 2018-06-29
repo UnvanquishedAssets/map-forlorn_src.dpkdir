@@ -3,8 +3,8 @@ map-forlorn
 	~Description
 		
 		Title: Forlorn
-		Version: Alpha 10
-		Release date: -/-/-
+		Version: Alpha 11
+		Release date: 01/02/2015
 		Summary: "A desolate mineral processing plant on a frozen planet. This
 				  map was made at the same time as my ej01 texture set. Of which
 				  the ice pack is used in this map."
@@ -45,21 +45,25 @@ map-forlorn
 	
 		Compile stats:
 			- BSP: -meta -custinfoparms -keeplights -samplesize 8
-				taking 107 seconds
+				taking 203 seconds
 
 			- VIS: -vis -saveprt
-				taking 2 seconds
+				taking 1 seconds
 
-			- LIGHT: -light -fast -shade -dirty -patchshadows -samples 3 -bouncegrid - bounce 6 -samplesize 8 -lightmapsize 512 -deluxe
-				taking 654 seconds
+			- LIGHT: -light -fast -shade -dirty -patchshadows -samples 3 -bouncegrid -bouncescale 1.1 - bounce 6 -samplesize 8 -lightmapsize 512 -deluxe
+				taking 1332 seconds
 		
 		Map file stats:
-			- Brush count = 5495
-			- Entity count = 202
+			- Brush count = 6833
+			- Entity count = 185
 			
 	~Change log
+		(01/02/2015) Alpha 11:
+			- Initial detailing of courtyard.
+			- Initial detailing of courtyard south.
+			- Various other minor changes.
 		
-		(-/-/-) Alpha 10:
+		(04/01/2015) Alpha 10:
 			- Initial detailing of hallway between human default and communications.
 			- Initial detailing of hallway between mineral processing and communications.
 			- Initial detailing of storage hall.
@@ -70,7 +74,7 @@ map-forlorn
 			- Storage hall windows added.
 			- Various other minor changes.
 			
-		Before (-/-/-) Alpha 1 to Alpha 9:
+		Before (04/01/2015) Alpha 1 to Alpha 9:
 			- Many layout tests before coming to the final layout design.
 			- Initial colour grading and reverb effects created.
 
