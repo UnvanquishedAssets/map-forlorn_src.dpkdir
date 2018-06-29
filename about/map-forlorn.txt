@@ -3,8 +3,8 @@ map-forlorn
 	~Description~
 		
 		Title: Forlorn
-		Version: Alpha 14
-		Release date: 01/11/2015
+		Version: Alpha 15
+		Release date: 06/12/2015
 		Summary: "A desolate mineral processing plant on a frozen planet. This
 				  map was made at the same time as my ej01 texture set. Of which
 				  the ice pack is used in this map."
@@ -12,8 +12,8 @@ map-forlorn
 	~Author~
 
         Jack 'EmperorJack' Purvis (emperorpurvis@gmail.com)
-		"I reside in New Zealand and create maps and textures for Unvanquished
-		Development."
+		"I'm a computer graphics student in Wellington, New Zealand. I love mapping
+		in my spare time."
 
 	~References, Tools and Appreciations~
 		
@@ -45,21 +45,30 @@ map-forlorn
 	
 		Compile stats:
 			- BSP: -meta -custinfoparms -keeplights -samplesize 8
-				taking 195 seconds
+				taking 190 seconds
 
 			- VIS: -vis -saveprt
 				taking 1 seconds
 
 			- LIGHT: -light -fast -shade -dirty -patchshadows -samples 3 -bouncegrid -bouncescale 1.1 - bounce 6 -samplesize 8 -lightmapsize 512 -deluxe
-				taking 468 seconds
+				taking 577 seconds
 		
 		Map file stats:
-			- Brush count = 7764
-			- Entity count = 175
+			- Brush count = 10868
+			- Entity count = 121
 			
 	~Change log~
+		(06/12/2015) Alpha 15:
+			- Renamed control room to data center.
+			- Renamed mineral lab to control room.
+			- Initial detailing of control room.
+			- Initial detailing of mineral processing.
+			- Added new light colour and reconfigured lighting colours around map.
+			- Replaced more deprecated entities.
+			- Various other minor changes.
+
 		(01/11/2015) Alpha 14:
-			- Redesigned processing layout.
+			- Redesigned mineral processing layout.
 			- Replaced some deprecated entities.
 			- Various other minor changes.
 			
