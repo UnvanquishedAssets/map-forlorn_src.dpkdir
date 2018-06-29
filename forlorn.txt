@@ -5,7 +5,7 @@ Details:
 
 -Map: Forlorn
 -Version Type: alpha
--Version Number: 3
+-Version Number: 4
 -Author: Jack 'EmperorJack' Purvis
 -Contact: emperorpurvis@gmail.com
 
@@ -42,5 +42,5 @@ Compile stats:
 
 Map file stats:
 
--Brushes: 2100
--Entities: 234
+-Brushes: 2349
+-Entities: 238
