@@ -1,0 +1,45 @@
+~~README IS A WORK IN PROGRESS~~
+
+
+Details:
+
+-Map: Forlorn
+-Version Type: alpha
+-Version Number: 1
+-Author: Jack 'EmperorJack' Purvis
+-Contact: emperorpurvis@gmail.com
+
+
+Programs used:
+
+-Netradiant (cheers Ingar)
+-Blender 2.6X
+-Photoshop CS6
+-xNormal
+
+
+Textures used:
+
+-ej01, by myself EmperorJack, licensed under creative commons for non-commercial use only, may be edited freely but only distributed with my name credited
+-Metal underlays: http://wojtar-stock.deviantart.com/
+-Grunge overlays: http://www.cgtextures.com/
+-Snow texture: http://www.goodtextures.com/
+-Rock texture: http://www.sharecg.com/pf/full_uploads.php?pf_user_name=yughues
+
+
+Compile stats:
+
+-BSP: -meta -custinfoparms -samplesize 8
+	taking 6 seconds
+
+-VIS: -vis -saveprt
+	taking 1 seconds
+
+-LIGHT: -light -fast -shade -dirty -patchshadows -deluxe -deluxemode 0 -lightmapsize 512 -samples 3 -samplesize 8 -bouncegrid -bounce 6
+	taking 472 seconds
+
+
+Map file stats:
+
+-Brushes: 1567
+-Entities: 126
