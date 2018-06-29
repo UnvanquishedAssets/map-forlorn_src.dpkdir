@@ -54,7 +54,7 @@ map-forlorn
 			- VIS: -vis -saveprt
 				taking 1 seconds
 
-			- LIGHT: -light -fast -shade -dirty -patchshadows -samples 3 -bouncegrid -bouncescale 1.1 - bounce 6 -samplesize 8 -lightmapsize 512 -deluxe
+			- LIGHT: -light -fast -shade -dirty -patchshadows -samples 3 -bouncegrid -bouncescale 1.1 -bounce 6 -samplesize 8 -lightmapsize 512 -deluxe
 				taking 669 seconds
 
 		Map file stats:
