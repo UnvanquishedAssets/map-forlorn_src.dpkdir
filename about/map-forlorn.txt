@@ -3,8 +3,8 @@ map-forlorn
 	~Description
 		
 		Title: Forlorn
-		Version: Alpha 11
-		Release date: 01/02/2015
+		Version: Alpha 12
+		Release date: 01/03/2015
 		Summary: "A desolate mineral processing plant on a frozen planet. This
 				  map was made at the same time as my ej01 texture set. Of which
 				  the ice pack is used in this map."
@@ -54,10 +54,14 @@ map-forlorn
 				taking 1332 seconds
 		
 		Map file stats:
-			- Brush count = 6833
-			- Entity count = 185
+			- Brush count = 7256
+			- Entity count = 173
 			
 	~Change log
+		(01/02/2015) Alpha 12:
+			- Initial detailing of lobby.
+			- Updated courtyard detailing.
+			
 		(01/02/2015) Alpha 11:
 			- Initial detailing of courtyard.
 			- Initial detailing of courtyard south.

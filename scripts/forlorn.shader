@@ -53,3 +53,22 @@ textures/shared_ej01-ice/light01_white_5000
 		blue  0.8
 	}
 }
+
+textures/shared_ej01-ice/light02_blue_1500
+{
+	qer_editorImage     textures/shared_ej01-ice_src/light02_p
+
+	q3map_surfacelight  1500
+	q3map_lightRGB      0.482 0.702 1.000
+
+	diffuseMap          textures/shared_ej01-ice_src/light02_d
+	normalMap           textures/shared_ej01-common_src/light02_n
+	specularMap         textures/shared_ej01-ice_src/light02_s
+	{
+		map   textures/shared_ej01-ice_src/light02_a
+		blend add
+		red   0.417
+		green 0.654
+		blue  1.000
+	}
+}
