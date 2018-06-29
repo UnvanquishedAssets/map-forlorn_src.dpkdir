@@ -5,7 +5,7 @@ Details:
 
 -Map: Forlorn
 -Version Type: alpha
--Version Number: 1
+-Version Number: 2
 -Author: Jack 'EmperorJack' Purvis
 -Contact: emperorpurvis@gmail.com
 
@@ -30,16 +30,16 @@ Textures used:
 Compile stats:
 
 -BSP: -meta -custinfoparms -samplesize 8
-	taking 6 seconds
+	taking 9 seconds
 
 -VIS: -vis -saveprt
-	taking 1 seconds
+	taking 2 seconds
 
--LIGHT: -light -fast -shade -dirty -patchshadows -deluxe -deluxemode 0 -lightmapsize 512 -samples 3 -samplesize 8 -bouncegrid -bounce 6
-	taking 472 seconds
+-LIGHT: -light -fast -dirty -patchshadows -deluxe -deluxemode 0 -samples 2 -samplesize 8 -lightmapsize 512
+	taking 53 seconds
 
 
 Map file stats:
 
--Brushes: 1567
--Entities: 126
+-Brushes: 983
+-Entities: 150
