@@ -1,0 +1,77 @@
+map-forlorn
+
+	~Description
+		
+		Title: Forlorn
+		Version: Alpha 10
+		Release date: -/-/-
+		Summary: "A desolate mineral processing plant on a frozen planet. This
+				  map was made at the same time as my ej01 texture set. Of which
+				  the ice pack is used in this map."
+				  
+	~Author
+
+        Jack 'EmperorJack' Purvis (emperorpurvis@gmail.com)
+		"I reside in New Zealand and create maps and textures for Unvanquished
+		Development."
+
+	~References, Tools and Appreciations
+		
+		References:
+		- tex-ej01-ice created by myself. Futher details and licensing can be found
+		  in the respective pack's about document.
+		- Snow material: http://www.goodtextures.com/ ("One or more textures on this
+						 map have been created with images from Goodtextures.com. These
+						 images may not be redistributed by default. Please visit
+						 www.goodtextures.com for more information.")
+		- Rock material: http://www.sharecg.com/yughues (free tiling texture pack 50)
+		
+		Tools:
+		- Photoshop CS6
+		- GIMP 2
+		- NetRadiant
+		- Q3Map2
+		
+		Appreciations:
+		- Unvanquished Development: "Together we are creating an amazing game. Without
+		  you I would not be creating works such as this."
+	
+	~License (this refers specifically to the .map file and shader files)
+
+        Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
+        (https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	
+	~Map statistics
+	
+		Compile stats:
+			- BSP: -meta -custinfoparms -keeplights -samplesize 8
+				taking 107 seconds
+
+			- VIS: -vis -saveprt
+				taking 2 seconds
+
+			- LIGHT: -light -fast -shade -dirty -patchshadows -samples 3 -bouncegrid - bounce 6 -samplesize 8 -lightmapsize 512 -deluxe
+				taking 654 seconds
+		
+		Map file stats:
+			- Brush count = 5495
+			- Entity count = 202
+			
+	~Change log
+		
+		(-/-/-) Alpha 10:
+			- Initial detailing of hallway between human default and communications.
+			- Initial detailing of hallway between mineral processing and communications.
+			- Initial detailing of storage hall.
+			- Redesigned north junction layout.
+			- Initial detailing of north junction.
+			- Initial detailing of courtyard north.
+			- Updated colour grading.
+			- Storage hall windows added.
+			- Various other minor changes.
+			
+		Before (-/-/-) Alpha 1 to Alpha 9:
+			- Many layout tests before coming to the final layout design.
+			- Initial colour grading and reverb effects created.
+
+	
