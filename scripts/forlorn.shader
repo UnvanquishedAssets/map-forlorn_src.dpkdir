@@ -48,11 +48,11 @@ textures/forlorn/scratchglass
 
 textures/forlorn/snow_xy
 {
-	qer_editorimage textures/forlorn/snow01_c.tga
+	qer_editorimage textures/forlorn/snow01_d.tga
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 256 0 )
-	diffusemap textures/forlorn/snow01_c.tga
+	diffusemap textures/forlorn/snow01_d.tga
 	bumpmap	textures/forlorn/snow01_n.tga
 	specularmap textures/forlorn/snow01_s.tga
 
