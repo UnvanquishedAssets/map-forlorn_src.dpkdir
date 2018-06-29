@@ -1,21 +1,21 @@
 map-forlorn
 
-	~Description
+	~Description~
 		
 		Title: Forlorn
-		Version: Alpha 13
-		Release date: 01/05/2015
+		Version: Alpha 14
+		Release date: 01/11/2015
 		Summary: "A desolate mineral processing plant on a frozen planet. This
 				  map was made at the same time as my ej01 texture set. Of which
 				  the ice pack is used in this map."
 				  
-	~Author
+	~Author~
 
         Jack 'EmperorJack' Purvis (emperorpurvis@gmail.com)
 		"I reside in New Zealand and create maps and textures for Unvanquished
 		Development."
 
-	~References, Tools and Appreciations
+	~References, Tools and Appreciations~
 		
 		References:
 		- tex-ej01-ice created by myself. Futher details and licensing can be found
@@ -36,28 +36,33 @@ map-forlorn
 		- Unvanquished Development: "Together we are creating an amazing game. Without
 		  you I would not be creating works such as this."
 	
-	~License (this refers specifically to the .map file and shader files)
+	~License~ (this refers specifically to the .map file and shader files)
 
         Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
         (https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	
-	~Map statistics
+	~Map statistics~
 	
 		Compile stats:
 			- BSP: -meta -custinfoparms -keeplights -samplesize 8
-				taking 298 seconds
+				taking 195 seconds
 
 			- VIS: -vis -saveprt
-				taking 2 seconds
+				taking 1 seconds
 
 			- LIGHT: -light -fast -shade -dirty -patchshadows -samples 3 -bouncegrid -bouncescale 1.1 - bounce 6 -samplesize 8 -lightmapsize 512 -deluxe
-				taking 1531 seconds
+				taking 468 seconds
 		
 		Map file stats:
-			- Brush count = 7663
-			- Entity count = 163
+			- Brush count = 7764
+			- Entity count = 175
 			
-	~Change log
+	~Change log~
+		(01/11/2015) Alpha 14:
+			- Redesigned processing layout.
+			- Replaced some deprecated entities.
+			- Various other minor changes.
+			
 		(01/05/2015) Alpha 13:
 			- Redesigned control room layout.
 			- Initial detailing of control room.
