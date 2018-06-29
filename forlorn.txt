@@ -1,12 +1,12 @@
 ~~README IS A WORK IN PROGRESS~~
-~~Just like the map and the EJ01 texture pack!!!~~
+~~Just like the map and the ej01/ej01_ice texture pack!!!~~
 
 
 Details:
 
 -Map: Forlorn
 -Version Type: alpha
--Version Number: 6
+-Version Number: 7
 -Author: Jack 'EmperorJack' Purvis
 -Contact: emperorpurvis@gmail.com
 
@@ -22,7 +22,7 @@ Programs used:
 
 Textures used:
 
--ej01, by myself EmperorJack, licensed under creative commons for non-commercial use only, may be edited freely but only distributed with my name credited
+-ej01/ej01_ice, by myself EmperorJack, licensed under creative commons for non-commercial use only, may be edited freely but only distributed with my name credited
 -Metal underlays: http://wojtar-stock.deviantart.com/
 -Grunge overlays: http://www.cgtextures.com/
 -Snow texture: http://www.goodtextures.com/
@@ -31,17 +31,17 @@ Textures used:
 
 Compile stats:
 
--BSP: -meta -custinfoparms -samplesize 8
-	taking 35 seconds
+-BSP: -meta -custinfoparms -samplesize 16
+	taking 72 seconds
 
 -VIS: -vis -saveprt
-	taking 2 seconds
+	taking 1 seconds
 
--LIGHT: -light -fast -dirty -patchshadows -deluxe -deluxemode 0 -samples 2 -samplesize 8 -lightmapsize 512
-	taking 59 seconds
+-LIGHT: -light -fast -dirty -patchshadows -samples 2 -samplesize 16 -lightmapsize 512 -deluxe
+	taking 20 seconds
 
 
 Map file stats:
 
--Brushes: 2139
--Entities: 230
+-Brushes: 2244
+-Entities: 238
