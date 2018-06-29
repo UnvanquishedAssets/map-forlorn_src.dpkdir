@@ -1,2 +1,2 @@
 tex-common
-tex-ej01-ice
+tex-ej01
