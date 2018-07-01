@@ -1,7 +1,7 @@
 Forlorn
 =======
 
-![Forlorn levelshot](meta/forlorn/forlorn.jpg)
+![Forlorn levelshot](meta/forlorn/forlorn.png)
 
 
 About
