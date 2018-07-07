@@ -1,7 +1,7 @@
 
 textures/forlorn/glass01
 {
-	qer_editorimage textures/forlorn/glass01
+	qer_editorImage textures/forlorn/glass01
 	qer_trans 0.5
 
 	surfaceparm lightfilter
@@ -17,7 +17,7 @@ textures/forlorn/glass01
 
 textures/forlorn/snow_xy
 {
-	qer_editorimage textures/forlorn/snow01_d
+	qer_editorImage textures/forlorn/snow01_d
 	q3map_nonplanar
 	q3map_shadeAngle 90
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 256 0 )

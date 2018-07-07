@@ -2,7 +2,7 @@
 
 textures/skies/ely_peaks
 {
-	qer_editorimage env/ely_peaks/peaks_ft
+	qer_editorImage env/ely_peaks/peaks_ft
 
 	surfaceparm sky
 	surfaceparm noimpact
