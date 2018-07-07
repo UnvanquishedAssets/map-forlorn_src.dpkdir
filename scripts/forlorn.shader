@@ -93,7 +93,7 @@ textures/forlorn/display03
 
 textures/shared_ej01-ice/light01_white_5000
 {
-	qer_editorImage     textures/shared_ej01-ice_src/light01_p
+	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  5000
 	q3map_lightRGB      0.9 0.9 0.9
@@ -112,7 +112,7 @@ textures/shared_ej01-ice/light01_white_5000
 
 textures/shared_ej01-ice/light02_blue_1500
 {
-	qer_editorImage     textures/shared_ej01-ice_src/light02_p
+	qer_editorImage     textures/shared_ej01-ice_src/light02_d
 
 	q3map_surfacelight  1500
 	q3map_lightRGB      0.482 0.702 1.000
@@ -131,7 +131,7 @@ textures/shared_ej01-ice/light02_blue_1500
 
 textures/shared_ej01-ice/light01_red_1500
 {
-	qer_editorImage     textures/shared_ej01-ice_src/light01_p
+	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  1500
 	q3map_lightRGB      0.8 0.553 0.553
@@ -150,7 +150,7 @@ textures/shared_ej01-ice/light01_red_1500
 
 textures/shared_ej01-ice/light01_orange_3000
 {
-	qer_editorImage     textures/shared_ej01-ice_src/light01_p
+	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      0.902 0.690 0.612
@@ -169,7 +169,7 @@ textures/shared_ej01-ice/light01_orange_3000
 
 textures/shared_ej01-ice/light02_orange_3000
 {
-	qer_editorImage     textures/shared_ej01-ice_src/light02_p
+	qer_editorImage     textures/shared_ej01-ice_src/light02_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      0.902 0.690 0.612
