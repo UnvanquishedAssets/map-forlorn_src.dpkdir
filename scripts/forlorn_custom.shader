@@ -191,7 +191,7 @@ textures/shared_ej01-ice/light01_pink_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.930 0.461 0.973
+	q3map_lightRGB      0.902 0.690 0.900
 
 	diffuseMap          textures/shared_ej01-ice_src/light01_d
 	normalMap           textures/shared_ej01-common_src/light01_n
@@ -210,7 +210,7 @@ textures/shared_ej01-ice/light02_pink_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light02_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.930 0.461 0.973
+	q3map_lightRGB      0.902 0.690 0.900
 
 	diffuseMap          textures/shared_ej01-ice_src/light02_d
 	normalMap           textures/shared_ej01-common_src/light02_n
