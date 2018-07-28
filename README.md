@@ -11,7 +11,7 @@ _Forlorn_ is a map featuring a desolate mineral processing plant on a frozen pla
 
 This map is a work in progress by Jack “EmperorJack” Purvis for the [Unvanquished](https://unvanquished.net) game project.
 
-Visit the [Unvanquished website](https://unvanquished.net/) for more information about the game itself.
+Visit the [Unvanquished website](https://unvanquished.net) for more information about the game itself.
 
 This map makes use of the [`tex-ej01`](https://github.com/UnvanquishedAssets/tex-ej01_src.dpkdir) texture set available under the terms and conditions of the Creative Commons Attribution-Share Alike 3.0 license.
 
@@ -20,3 +20,10 @@ Legal
 -----
 
 The content of this package is available under the conditions of the [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+
+
+Credits
+-------
+
+- [Jack “EmperorJack” Purvis](https://www.behance.net/jackpurvis)
+- The [Unvanquished team](https://unvanquished.net/?page_id=336)
