@@ -20,11 +20,8 @@ map-forlorn
 		References:
 		- tex-ej01-ice created by myself. Futher details and licensing can be found
 		  in the respective pack's about document.
-		- Snow material: http://www.goodtextures.com/ ("One or more textures on this
-						 map have been created with images from Goodtextures.com. These
-						 images may not be redistributed by default. Please visit
-						 www.goodtextures.com for more information.")
-		- Rock material: http://www.sharecg.com/yughues (free tiling texture pack 50)
+		- snow01 material: chasm one modified from pk02 sand one
+		- rock01 material: http://www.sharecg.com/yughues (free tiling texture pack 50)
     - fanhum01 sound: https://www.freesound.org/people/Otakua/sounds/219929/
     - generator01 sound: https://www.freesound.org/people/HerbertBoland/sounds/114594/
     - wind01 sound: https://www.freesound.org/people/klangfabrik/sounds/26714/

@@ -15,23 +15,6 @@ textures/forlorn_custom/glass01
 	}
 }
 
-textures/forlorn_custom/snow_xy
-{
-	qer_editorImage textures/forlorn_custom_src/snow01_d
-	q3map_nonplanar
-	q3map_shadeAngle 90
-	q3map_tcGen ivector ( 256 0 0 ) ( 0 256 0 )
-	diffuseMap	textures/forlorn_custom_src/snow01_d
-	normalMap		textures/forlorn_custom_src/snow01_n
-	specularMap	textures/forlorn_custom_src/snow01_s
-
-	{
-		map $lightmap
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-}
-
 textures/forlorn_custom/display01
 {
 	qer_editorImage     textures/forlorn_custom_src/display01_a
