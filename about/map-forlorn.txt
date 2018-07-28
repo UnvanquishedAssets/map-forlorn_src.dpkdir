@@ -21,6 +21,8 @@ map-forlorn
 		- tex-ej01-ice created by myself. Futher details and licensing can be found
 		  in the respective pack's about document.
 		- snow01 material: chasm one modified from pk02 sand one
+		  under Creative Commons Attribution 3.0 license
+		  https://creativecommons.org/licenses/by-sa/3.0/
 		- rock01 material: http://www.sharecg.com/yughues (free tiling texture pack 50)
     - fanhum01 sound: https://www.freesound.org/people/Otakua/sounds/219929/
     - generator01 sound: https://www.freesound.org/people/HerbertBoland/sounds/114594/
@@ -39,8 +41,8 @@ map-forlorn
 
 	~License~ (this refers specifically to the .map file and shader files)
 
-        Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
-        (https://creativecommons.org/licenses/by-nc-sa/3.0/)
+        Creative Commons Attribution-Share Alike 3.0 License
+        https://creativecommons.org/licenses/by-sa/3.0/
 
 	~Map statistics~
 
