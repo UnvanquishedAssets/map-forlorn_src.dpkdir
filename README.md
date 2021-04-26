@@ -11,7 +11,7 @@ _Forlorn_ is a game level featuring a desolate mineral processing plant on a fro
 
 This map is a work in progress by Jack “EmperorJack” Purvis for the [Unvanquished](https://unvanquished.net) game project.
 
-This map makes use of the [`tex-ej01`](../tex-ej01_src.dpkdir/README.md) texture set available under the terms and conditions of the Creative Commons Attribution-Share Alike 3.0 license.
+This map makes use of the [`tex-ej01`](https://github.com/UnvanquishedAssets/tex-ej01_src.dpkdir) texture set available under the terms and conditions of the Creative Commons Attribution-Share Alike 3.0 license.
 
 This map is meant to be edited with a level editor like [NetRadiant](https://netradiant.gitlab.io/).
 
