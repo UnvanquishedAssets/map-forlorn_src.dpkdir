@@ -22,7 +22,7 @@ map-forlorn
 		  in the respective pack's about document.
 		- snow01 material: chasm one modified from pk02 sand one
 		  under Creative Commons Attribution 3.0 license
-		  https://creativecommons.org/licenses/by-sa/3.0/
+		  https://creativecommons.org/licenses/by/3.0/
 		- rock01 material: http://www.sharecg.com/yughues (free tiling texture pack 50)
 		- fanhum01 sound: https://www.freesound.org/people/Otakua/sounds/219929/
 		  under Creative Commons Attribution 3.0 license
