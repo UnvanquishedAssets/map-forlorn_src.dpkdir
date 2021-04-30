@@ -26,10 +26,10 @@ map-forlorn
 		- rock01 material: http://www.sharecg.com/yughues (free tiling texture pack 50)
 		- fanhum01 sound: https://www.freesound.org/people/Otakua/sounds/219929/
 		  under Creative Commons Attribution 3.0 license
-		  https://creativecommons.org/licenses/by-sa/3.0/
+		  https://creativecommons.org/licenses/by/3.0/
 		- generator01 sound: https://www.freesound.org/people/HerbertBoland/sounds/114594/
 		  under Creative Commons Attribution 3.0 license
-		  https://creativecommons.org/licenses/by-sa/3.0/
+		  https://creativecommons.org/licenses/by/3.0/
 		- wind01 sound: https://www.freesound.org/people/klangfabrik/sounds/26714/
 		  under Creative Commons Zero 1.0 license
 		  https://creativecommons.org/publicdomain/zero/1.0/
