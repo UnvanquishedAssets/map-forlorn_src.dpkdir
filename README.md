@@ -1,7 +1,7 @@
 Forlorn game level for Unvanquished
 ===================================
 
-![Forlorn levelshot](meta/forlorn/forlorn.png)
+![Forlorn levelshot](meta/forlorn/forlorn.webp)
 
 
 About
