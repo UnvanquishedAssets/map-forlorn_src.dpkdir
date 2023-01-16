@@ -1,5 +1,6 @@
 {
-map		"forlorn"
-longname	"Forlorn - beta 1"
-type		"tremulous"
+	map "forlorn"
+	longname "Forlorn"
+	author "EmperorJack"
+	type "tremulous"
 }
