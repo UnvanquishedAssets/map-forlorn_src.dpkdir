@@ -7,8 +7,8 @@ textures/forlorn_pk02/snow01
 	q3map_tcGen ivector ( 256 0 0 ) ( 0 256 0 )
 
 	{
-		diffuseMap  textures/forlorn_pk02_src/snow01_d
+		diffuseMap textures/forlorn_pk02_src/snow01_d
 		specularMap textures/forlorn_pk02_src/snow01_s
-		normalMap   textures/shared_pk02_src/sand01_n
+		normalMap textures/shared_pk02_src/sand01_n
 	}
 }
