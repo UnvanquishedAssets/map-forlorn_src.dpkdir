@@ -9,6 +9,7 @@ textures/forlorn_custom/glass01
 
 	{
 		map textures/forlorn_custom_src/glass01
+		rawColorMap
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
